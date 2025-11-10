@@ -1,0 +1,167 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c9358fc2de43c8c6070402ac09d15266"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/hbh",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/hbh/index.html",
+        "type": "file",
+        "md5": "4b2d9f5a30d2834043ea76e6bff99fde"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "019a19c497c1c8d71cfe3189db501db0"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "8b5f5c0f9c103f494181f08d60b74097"
+    },
+    {
+        "path": "fragrance-news-exploring-the-latest-trends-and-developments-in-the-perfume-world.html",
+        "type": "file",
+        "md5": "9959b42d3072e4d3607a79a210558f45"
+    },
+    {
+        "path": "fragrance-news-latest-developments-and-trends-in-the-world-of-perfumes.html",
+        "type": "file",
+        "md5": "adf659a813709dca3ef3feab32b869eb"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "954351e4023bf84705d50c6d21940748"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/tnzyl.jfif",
+        "type": "file",
+        "md5": "bc9741a441e290811024de6795f60bbd"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "1162ba88c6e1abae98d92e10d8c8ccee"
+    },
+    {
+        "path": "shrk-rsh-mbydt-bsby-fdl-lhlwl-llqd-aal~-lhshrt-whmy-mnzlk.html",
+        "type": "file",
+        "md5": "970761e97964e2e064f568aa62644dee"
+    },
+    {
+        "path": "shrk-rsh-mbydt-bsby-hlwl-htrfy-lhmy-lmnzl-wlmmtlkt.html",
+        "type": "file",
+        "md5": "6f57d527801bdfd447eab70656c001ce"
+    },
+    {
+        "path": "shrk-rsh-mbydt-bsby-lhl-lmthl-llqd-aal~-lhshrt-whmy-mnzlk.html",
+        "type": "file",
+        "md5": "c125a9c4da36835908102a36a8f7e02a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "8f9a3162a99ceb1fa4bda2277fdb63b4"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "7650af9b26c939501b6c34a05d4b990c"
+    }
+]
